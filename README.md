@@ -1,4 +1,4 @@
-# Pipeline_python
+# Projeto Pipeline_python
 Projeto DIO -> Pipeline com Python
 
 Projeto que envolve o processo ETL: extração, transformação e carregamento dos dados.
